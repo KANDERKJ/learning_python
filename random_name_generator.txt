@@ -1,0 +1,30 @@
+# Create a script that generates random random names
+# ---------------------------------------------------
+
+# Create a list called first_names which stores five names
+# create a list called surnames which stores 5 surnames
+# Randomly choice an element from each list and combine them. How to
+# randomly choose an item from a list?
+
+>>> import random
+>>> letters = ['a', 'b', 'c']
+>>> random.choice(letters)
+'a'
+
+# Make sure that the names have a space between the names
+
+# Wrap this functionality in a loop and print out 100 random names
+
+
+def random_name():
+    """
+    CODE GOES HERE
+    """
+    pass
+
+
+
+random_name()   # call the function
+
+
+
