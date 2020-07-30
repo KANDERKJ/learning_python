@@ -1,4 +1,4 @@
-# TLG Python Fundamentals Cohort
+# Python Fundamentals 
 
-python fundamentals: Python code
+Python fundamentals: Python code
 Contains scripts we are creating for this Python cohort.
